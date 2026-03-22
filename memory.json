@@ -1,0 +1,120 @@
+{
+  "channels": {
+    "1480941024867123365": [
+      {
+        "role": "user",
+        "content": "(mikasa_3432) # thank youu byeeeeee"
+      },
+      {
+        "role": "assistant",
+        "content": "You're welcome! Bye! Take care!"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) yooooooooo"
+      },
+      {
+        "role": "assistant",
+        "content": "Yooo! What's up?"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) finee"
+      },
+      {
+        "role": "assistant",
+        "content": "Great to hear! Anything specific on your mind?"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) # byee tnxx"
+      },
+      {
+        "role": "assistant",
+        "content": "No problem! Bye! 😊"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) yooo"
+      },
+      {
+        "role": "assistant",
+        "content": "Yoo! What's up again?"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) kese ho"
+      },
+      {
+        "role": "assistant",
+        "content": "Main theek hoon! Tum kaise ho?"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) me bhi fine"
+      },
+      {
+        "role": "assistant",
+        "content": "Achha hai! Kya chal raha hai aaj kal?"
+      },
+      {
+        "role": "user",
+        "content": "(mikasa_3432) # byee tnx"
+      },
+      {
+        "role": "assistant",
+        "content": "Bye! You're welcome! 😊"
+      }
+    ],
+    "1485137514393108510": [
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) enna pandra amma"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) english"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) sasds"
+      },
+      {
+        "role": "assistant",
+        "content": "Kya help chahiye aapko?"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) how  r u"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm just a bot, but thanks for asking! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) you know tamil"
+      },
+      {
+        "role": "assistant",
+        "content": "Naan Tamil purinjikkanum, aana ungalukku eppadi help pannalaam?"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) okok bye"
+      },
+      {
+        "role": "assistant",
+        "content": "Bye! Take care!"
+      },
+      {
+        "role": "user",
+        "content": "(agentgaming_100k) dds"
+      },
+      {
+        "role": "assistant",
+        "content": "Kya chahiye aapko?"
+      }
+    ]
+  }
+}
